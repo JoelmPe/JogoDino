@@ -1,2 +1,2 @@
 # JogoDino
-Recriando jogo do dinossauro, com auxilio dos vídeos do Carlos Henrique.
+Recriando jogo do dinossauro, com auxilio dos vídeos do Celso Henrique.
